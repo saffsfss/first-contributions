@@ -30,7 +30,7 @@ Forkボタンをクリックしてこのリポジトリをフォークしてく�
 ターミナルを開いて以下のgitコマンドを実行してください：
 
 ```
-git clone "コピーしたURL"
+git clone <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 ```
 "コピーしたURL" (ダブルクオーテーションは除いてください) は先ほどコピーしたリポジトリのURLと置き換えてください。
 
@@ -38,7 +38,7 @@ git clone "コピーしたURL"
 
 例：
 ```
-git clone https://github.com/＜あなたのユーザー名＞/first-contributions.git
+git clone https://github.com/＜あたのユーザー名＞/first-contributions.git
 ```
 `あなたのユーザー名` はご自身のGitHubユーザー名に置き換えてください。この作業でGitHub のリポジトリの内容はあなたのコンピュータに保存されました。
 
